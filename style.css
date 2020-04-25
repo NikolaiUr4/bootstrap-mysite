@@ -1,11 +1,8 @@
 @media (min-width:540px){
     .mr-sm-6{
-        margin-right:5rem !important
+        margin-right: 5rem   !important
     }
     .mr-sm-7{
-        margin-right:7rem !important
+        margin-right: 7rem   !important
     }
-{
-    border: 2px solid black;
-    background-color: rgba(66, 0, 247, 0.8);
 }
